@@ -13,3 +13,5 @@ We are engineers at the ready!
 For a better presentation, open:
 [Engineering Solutions.pdf](https://github.com/Horaga/Wofair/files/8257520/Engineering.Solutions.pdf)
 
+For a better navigation, open:
+[Summary](https://github.com/Horaga/Wofair/wiki)
