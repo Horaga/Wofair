@@ -9,3 +9,6 @@ It's about projects of things that doesn't exist, and it only does cause there's
 In this repository, you'll find some actual projects that we made, and the respective CAM/CAD models, feel free to e-mail us about any doubts or projects order u have on wofair.eng@gmail.com
 
 We are engineers at the ready!
+
+[Engineering Solutions.pdf](https://github.com/Horaga/Wofair/files/8257520/Engineering.Solutions.pdf)
+
