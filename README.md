@@ -11,7 +11,7 @@ In this repository, you'll find some actual projects that we made, and the respe
 We are engineers at the ready!
 
 For a better presentation, open:
-[Engineering Solutions.pdf](https://github.com/Horaga/Wofair/files/8257520/Engineering.Solutions.pdf)
+[Presentation](https://github.com/Horaga/Wofair/blob/main/Engineering%20Solutions.pdf)
 
 For a better navigation, open:
 [Summary](https://github.com/Horaga/Wofair/wiki)
